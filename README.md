@@ -1,2 +1,2 @@
 # AWSEc2Deploy
-project to deploy using aws codedeploy1
+project to deploy using aws codedeploy2
